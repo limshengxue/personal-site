@@ -24,3 +24,17 @@
     line-height: 30px;
     text-align: justify;
 }
+
+@media (max-width: 800px) {
+   .skills__softSkills{
+       flex-direction: column;
+   }
+   .skills__softSkills p{
+       margin-left: 10px;
+       margin-top: 10px;
+   }
+   .skills__softSkills img{
+       width: 40%;
+       height: 40%;
+   }
+  }

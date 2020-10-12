@@ -3,6 +3,13 @@
     margin-left: 20px;
 }
 
+@media (max-width: 800px) {
+    .education__programme{
+        flex-direction: column;
+        line-height: 50px;
+    }
+  }
+
 .education__programmeInfo{
     display: flex;
     flex-direction: column;

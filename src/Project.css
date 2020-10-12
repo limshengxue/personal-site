@@ -18,6 +18,12 @@
         margin-top: 10px;
         margin-bottom: 10px;
     }
+    .projects__carousel img{
+        object-fit: contain;
+    }
+    .projects__carousel .CarouselItem{
+        height: 240px;
+    }   
   }
 
 .projects__carousel img{

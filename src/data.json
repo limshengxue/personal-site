@@ -1,0 +1,157 @@
+{
+    "education": {
+        "programmes": [
+            {
+                "image": "https://eduadvisor.my/wp-content/uploads/2015/07/Logo-APU-200.png",
+                "name": "Diploma in Information Technology with a specialism in Software Engineering",
+                "source": "Asia Pacific University",
+                "result": 3.87
+            }
+        ],
+        "courses": [
+            {
+                "semester": "1",
+                "date": "April 2019",
+                "courseList": [
+                    "Practical IT Skills",
+                    "Fundamentals of Entrepreneurship",
+                    "Managing Business",
+                    "English for Academic Purpose"
+                ]
+            },
+            {
+                "semester": "2",
+                "date": "August 2019",
+                "courseList": [
+                    "Academic Research Skills",
+                    "Discrete Mathematics",
+                    "Information System",
+                    "Professional Communication"
+                ]
+            },
+            {
+                "semester": "3",
+                "date": "January 2020",
+                "courseList": [
+                    "Computer System Architecture",
+                    "Operating System",
+                    "Visual Basic .NET",
+                    "Database System"
+                ]
+            },
+            {
+                "semester": "4",
+                "date": "June 2019",
+                "courseList": [
+                    "Introduction to Software Engineering",
+                    "Networks & Networking",
+                    "Numerical Methods",
+                    "System Analysis and Design",
+                    "Numerical Methods"
+                ]
+            }
+        ]
+    },
+    "skills": [
+        {
+            "name": "Web Design (HTML, CSS, Bootstrap)",
+            "proficiency": 80
+        },
+        {
+            "name": "Web Programming (PHP, Javascript)",
+            "proficiency": 60
+        },
+        {
+            "name": "React JS (Redux, Material UI)",
+            "proficiency": 50
+        },
+        {
+            "name": "Visual Basic .NET",
+            "proficiency": 60
+        },
+        {
+            "name": "SQL Database (MS SQL, MySQL)",
+            "proficiency": 70
+        },
+        {
+            "name": "No SQL Database (MongoDB)",
+            "proficiency": 40
+        },
+        {
+            "name": "Version Control System (Git, Github)",
+            "proficiency": 40
+        },
+        {
+            "name": "Microsoft Office (Word, Access, Excel)",
+            "proficiency": 70
+        }
+    ],
+    "projects": [
+        {
+            "image": "./Images/Picture1.png",
+            "name": "Oceana Clinic Management System",
+            "desc": "A clinic management system built to improve the business performance of a clinic. User roles include nurses, doctors and admin. Include functions like manage staffs' profiles, patients' profiles and billing",
+            "techApplied": [
+                "Visual Basic .NET",
+                "MS SQL Server"
+            ]
+        },
+        {
+            "image": "./Images/Picture2.png",
+            "name": "SS Real Estate Management Systen",
+            "desc": "A web application built together with my another teammate. User roles include agent, buyer. Allow property to contact with client thorugh web app, confirm viewing dates and time with client and view personal schedule.",
+            "techApplied": [
+                "Bootstrap",
+                "PHP",
+                "MySQL",
+                "HERE Maps API"
+            ]
+        },
+        {
+            "image": "./Images/Picture3.png",
+            "name": "Journal App",
+            "desc": "A simple web app used for journaling. Built along with a course named 'The Complete 2020 Web Development Bootcamp' on Udemy.",
+            "techApplied": [
+                "Express.js",
+                "Mongo DB"
+            ]
+        },
+        {
+            "image": "./Images/Picture4.png",
+            "name": "Budget App",
+            "desc": "A web app that allowed user to keep track of his incomes and expenses. Sort incomes and expenses with amount of money. Built along with a course named 'The Complete JavaScript Course 2020: Build Real Projects!' on Udemy",
+            "techApplied": [
+                "Javascript"
+            ]
+        }, {
+            "image": "./Images/Picture5.png",
+            "name": "Heropedia",
+            "desc": "A wikipedia for super heroes. Built to improve my skills on Javascript after finishing several courses on MOOC. User can search for the info of a super hero and add them to favourite list.",
+            "techApplied": [
+                "Javascript",
+                "AJAX",
+                "SuperHero API"
+            ]
+        }, {
+            "image": "./Images/Picture6.png",
+            "name": "Instagram Clone",
+            "desc": "An instragram clone app built along with youtube tutorial from the channel - Clever Programmer. Include basic functionalities like adding a post and commenting on a post",
+            "techApplied": [
+                "React JS",
+                "Material UI",
+                "Firebase"
+                
+            ]
+        }, {
+            "image": "./Images/Picture7.png",
+            "name": "Whatsapp Clone",
+            "desc": "A Whatsapp clone app built along with youtube tutorial from the channel - Clever Programmer. Allowing user to create chatroom and send message in the chatroom.",
+            "techApplied": [
+                "React JS",
+                "React Context API",
+                "Material UI",
+                "Firebase"
+            ]
+        }
+    ]
+}

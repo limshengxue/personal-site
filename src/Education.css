@@ -1,0 +1,35 @@
+.education__programme{
+    display: flex;
+    margin-left: 20px;
+}
+
+.education__programmeInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+}
+
+.education__programmeInfo > p{
+    margin-top: -20px;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.education__programmeInfo  span{
+    display: block;
+    margin-top: 10px;
+    font-weight: lighter;
+    text-transform: none;
+}
+
+.education__courses{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.education__courseItem{
+    background-color: #dee1ec;
+    border-radius: 20px;
+    padding-top: 10px;
+    text-indent: 4px;
+}

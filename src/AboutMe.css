@@ -1,0 +1,33 @@
+.aboutMe{
+    background-color: #e7b3b3;
+    color: #000000;
+    flex: 0.185;
+    min-width: 200px;
+}
+
+.aboutMe__proPic{
+    width:180px !important;
+    height: 180px !important;
+    margin: 60px auto;
+    display: block;
+}
+
+.aboutMe__name{
+    margin-bottom: 20px;
+    margin-left: 23px;
+    font-size: 26px;
+}
+
+.aboutMe > hr{
+    border: none;
+    border-bottom: 1px solid grey;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+.aboutMe__desc{
+    margin-left: 10px;
+    margin: 20px;
+    line-height: 30px;
+}

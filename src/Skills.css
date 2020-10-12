@@ -1,0 +1,26 @@
+.skills__technicalSkills{
+    width:80%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.skills__softSkills{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.skills__softSkills > img{
+    width: 30%;
+    height: 30%;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.skills__softSkills > p{
+    width: 40%;
+    margin-left: 20px;
+    margin-top: 20px;
+    line-height: 30px;
+    text-align: justify;
+}

@@ -6,7 +6,14 @@
 @media (max-width: 800px) {
     .education__programme{
         flex-direction: column;
-        line-height: 50px;
+        line-height: 25px;
+    }
+    .education__programmeInfo  p{
+        line-height: 70px;
+        margin-top: 0;
+    }
+    .education__programmeInfo span{
+        margin-top: -50px !important;
     }
   }
 

@@ -33,8 +33,15 @@
        margin-left: 10px;
        margin-top: 10px;
    }
-   .skills__softSkills img{
-       width: 40%;
-       height: 40%;
+   .skills__softSkills > img{
+       width: 90%;
+       height: 90%;
+   }
+   .skills__softSkills > p{
+        width: 90%;
+        margin-bottom: 10px;
+    }
+   .skills__softSkills{
+       width: 90%;
    }
   }

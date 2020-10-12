@@ -15,6 +15,9 @@
     .education__programmeInfo span{
         margin-top: -50px !important;
     }
+    .education__eduLogo{
+        object-fit: contain;
+    }
   }
 
 .education__programmeInfo{

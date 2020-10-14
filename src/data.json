@@ -98,7 +98,7 @@
         },
         {
             "image": "./Images/Picture2.png",
-            "name": "SS Real Estate Management Systen",
+            "name": "SS Real Estate Management System",
             "desc": "A web application built together with my another teammate. User roles include agent, buyer. Allow property to contact with client thorugh web app, confirm viewing dates and time with client and view personal schedule.",
             "techApplied": [
                 "Bootstrap",
